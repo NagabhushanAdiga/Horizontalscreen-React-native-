@@ -1,1 +1,0 @@
-# Horizontalscreen-React-native
